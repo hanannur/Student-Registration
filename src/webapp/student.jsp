@@ -1,5 +1,7 @@
 <%@ page import="java.util.List" %>
 <%@ page import="model.Student" %>
+
+
 <html>
 <body>
 <h2>Registered Students</h2>
